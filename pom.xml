@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.expentrack</groupId>
-	<artifactId>eurekaservice</artifactId>
+	<artifactId>eureka-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>eurekaservice</name>
-	<description>Eureka server for ExpenTrack application</description>
+	<name>ExpenTrack Eureka Server</name>
+	<description>Eureka Server for ExpenTrack microservices</description>
 	<url/>
 	<licenses>
 		<license/>
